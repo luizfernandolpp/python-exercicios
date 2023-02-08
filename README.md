@@ -1,2 +1,3 @@
 # python-exercicios
- Alguns exercícios em Python
+ 
+ Códigos de resolução de alguns dos exercícios em Python do canal Curso em Vídeo (em atualização).
